@@ -1,0 +1,42 @@
+/*header */
+.logo{
+	display: inline-block;
+	vertical-align: middle;
+	padding-left: 20px;
+	margin-right: 92px;
+}
+.navigation{
+	display: inline-block;
+	vertical-align: middle;
+	
+}
+.nav-li{
+	display: inline-block;
+	vertical-align: middle;
+}
+.home{
+	color: #343638;
+}
+.discovery{
+	margin-left: 27px;
+	margin-right: 22px;
+	color: #F6F8F9;
+}
+.photos{
+	color: #F6F8F9;
+}
+.contact{
+	margin-left: 22px;
+	margin-right: 40px;
+	color: #F6F8F9;
+}
+.header-image{
+	display: inline-block;
+	padding-top: 11px;
+}
+.header-wraper{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
