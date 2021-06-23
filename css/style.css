@@ -1,4 +1,7 @@
 /*header */
+body{
+	padding-top:46.13px;
+}
 .logo{
 	display: inline-block;
 	vertical-align: middle;
@@ -39,4 +42,89 @@
 	top: 0;
 	left: 0;
 	width: 100%;
+}
+/*section*/
+.block{
+	padding-top: 75px;
+	padding-left: 140px;
+}
+.trending{
+	color: #202124;
+	margin-bottom: 40px;
+}
+.first-block{
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 350px;
+	margin-right: 40px;
+}
+.second-block{
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 350px;
+	margin-right: 40px;
+}
+.third-block{
+	display: inline-block;
+	vertical-align: top;
+	width: 360px;
+	height: 350px;
+} 
+.image-wraper{
+	position: relative;
+}
+.text-block{
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	color: #FFFFFF;
+}
+
+.p1{
+	margin-top: 66px;
+	color: #A6ADB4;
+}
+
+/*section2*/
+.block1{
+	padding-left: 140px;
+	display: inline-block;
+	vertical-align: top;
+}
+.happening{
+	margin-top: 58px;
+	margin-bottom: 40px;
+}
+.img-wraper{
+	position: relative;
+	margin-bottom: 40px;
+}
+.txt-block{
+	position: absolute;
+	top: 394px;
+	left: 569px;
+	color: #FFFFFF;
+}
+/*section3*/
+.wraper{
+	position: relative;
+}
+.text-wraper{
+	position: absolute;
+	top: 18px;
+	left: 40px;
+	color: #FFFFFF;
+
+}
+.block2{
+	margin-left: 40px;
+	margin-top: 118px;
+	display: inline-block;
+	vertical-align: top;
+}
+.bird{
+	margin-top: 102px;
+	margin-bottom: 102px;
 }
